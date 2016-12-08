@@ -2,7 +2,7 @@
 # Books Webservice
 
 
-1. Database named 'cat' containing table named 'table_1' has been created in mysql on Amazon EC2.
+1. Database named 'cat' containing table named 'test' has been created in mysql on Amazon EC2.
 
 2. Commands used:
     # create database test;
