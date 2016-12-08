@@ -8,8 +8,8 @@
     # create database test;
     # use database test;
 
-3. Created table named 'cats' using:
-    #CREATE TABLE cats ( work_id varchar(255) default null, obj_id varchar(255) default null, rev_no varchar(255) default null, time varchar(255) default null, info varchar(2000) default null);
+3. Created table named 'cat' using:
+    #CREATE TABLE cat ( work_id varchar(255) default null, obj_id varchar(255) default null, rev_no varchar(255) default null, time varchar(255) default null, info varchar(2000) default null);
 
 4. Copied the cat-works.txt from host to EC2 using
     # scp -i key.pem /path/to/myfile.txt ec2-user@IPAddressOfEC2:
