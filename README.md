@@ -6,7 +6,7 @@
 
 2. Commands used:
     # create database test;
-    # use database test;
+    # use test;
 
 3. Created table named 'cat' using:
     #CREATE TABLE cat ( work_id varchar(255) default null,object_id  varchar(255) default null, rev_no varchar(255) default null, timestamp varchar(255) default null, details text default null);
