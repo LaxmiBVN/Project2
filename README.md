@@ -21,11 +21,11 @@
 
 7. Execution can be seen from any browser at the following address:
 
-  http://ec2-54-191-163-142.us-west-2.compute.amazonaws.com:5001/search/word
+  http://ec2-54-191-163-142.us-west-2.compute.amazonaws.com:5001/search/word </br>
   http://ec2-54-191-163-142.us-west-2.compute.amazonaws.com:5001/work/id
   
 8. Sample output:
-   http://ec2-54-191-163-142.us-west-2.compute.amazonaws.com:5001/work/OL15058106W
+   http://ec2-54-191-163-142.us-west-2.compute.amazonaws.com:5001/work/OL15058106W </br>
  {"Timestamp": "2010-04-28T07:54:43.266997", "Author Name": "Dandi Daley Mackall", "details": {"created": {"type": "/type/datetime", "value": "2010-04-17T05:45:53.003152"}, "title": "The great meow mystery", "covers": [1285725], "last_modified": {"type": "/type/datetime", "value": "2010-04-28T07:54:43.266997"}, "latest_revision": 2, "key": "/works/OL15058106W", "authors": [{"type": {"key": "/type/author_role"}, "author": {"key": "/authors/OL32072A"}}], "type": {"key": "/type/work"}, "subjects": ["Fiction", "Christian life in fiction", "Christian life", "Cats in fiction", "Lost-and-found possessions in fiction", "Cats", "Lost-and-found possessions", "Mystery and detective stories"], "revision": 2}}
   
 
